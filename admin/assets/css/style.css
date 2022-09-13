@@ -1,0 +1,27 @@
+.form-control {
+    border: 1px solid #b3a1a1 !important;
+    padding: 8px 10px;
+}
+
+.form-select {
+    border: 1px solid #b3a1a1 !important;
+    padding: 8px 10px;
+}
+
+.btn {
+    text-transform: none !important;
+    padding-left: 1.725rem !important;
+    padding-right: 1.725rem !important;
+    font-size: 0.65rem !important;
+
+}
+
+.btn-primary {
+    background-color: #4caf50 !important;
+}
+
+.badge {
+    left: 20px !important;
+    text-transform: none !important;
+    font-size: 0.65rem !important;
+}
